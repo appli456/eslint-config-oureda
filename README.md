@@ -1,4 +1,7 @@
 # eslint-config-oureda
 eslint config in OurEDA
 
-> npm install eslint-config-oureda
+## How to use it
+```
+npm install eslint-config-oureda
+```
