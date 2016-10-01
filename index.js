@@ -7,9 +7,9 @@ module.exports = {
         node: true,
         browser: true
     },
-    parser: 'babel-eslint',
-    plugins: ['babel'],
-    ecmaVersion: 7,
+//     parser: 'babel-eslint',
+//     plugins: ['babel'],
+//     ecmaVersion: 7,
     sourceType: 'module',
     ecmaFeatures: {
         jsx: true,
